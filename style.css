@@ -1,0 +1,49 @@
+.design,.clients, .footer, .product, .form,  .featured, .main-card{
+    margin-top: 50px;
+}
+.round{
+    width: 50px;
+    clip-path: circle();
+}
+
+.line{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+.text{
+    align-items: center;
+}
+.footer-col1{
+    display: flex;
+    column-gap: 5px;
+    margin-top: 30px;
+}
+.footer-icon{
+    width: 70px;
+    margin-top: 80px;
+    
+}
+.footer-col{
+    margin-top: 80px;
+}
+.footer-text{
+    margin-top: 20px;
+}
+.copyright{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+
+/* end of home section end of home section end of home section end of home section */
+
+/* start product section start product section  start product section start product section */
+
+/* start about section */
+.about-area{
+    padding: 10px 200px;
+}
+.about-row{
+    margin:50px 0;
+}
